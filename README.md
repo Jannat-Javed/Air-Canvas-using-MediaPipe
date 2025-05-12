@@ -1,4 +1,4 @@
-## Air Canvas with Hand Gesture Recognition
+## Air Canvas with MediaPipe
 This project allows users to draw on a virtual canvas in real-time using only hand gestures, without touching any screen or device. It utilizes OpenCV for computer vision and MediaPipe for hand landmark detection.
 
 ### Overview
