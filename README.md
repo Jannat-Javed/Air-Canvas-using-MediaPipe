@@ -1,7 +1,6 @@
 ## Air Canvas with MediaPipe
 This project allows users to draw on a virtual canvas in real-time using only hand gestures, without touching any screen or device. It utilizes OpenCV for computer vision and MediaPipe for hand landmark detection.
 
-### Overview
 Air Canvas is a creative tool that captures hand movements via a webcam and interprets gestures to draw, erase, and clear the canvas. The core idea is to use fingertip positions especially the index finger to track movement and convert it into strokes on a digital whiteboard.
 
 ### Technologies Used
